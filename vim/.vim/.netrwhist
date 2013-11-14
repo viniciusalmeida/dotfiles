@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/vinicius/Documentos/meusProgramas/worldfree-dev/module/Application/view/layout'
+let g:netrw_dirhist_2='/home/vinicius/Documentos/meusProgramas/calculatorEquivalentRates/assets/css'
+let g:netrw_dirhist_3='/home/vinicius/Documentos/meusProgramas/linkcoach/mongoDriver'
+let g:netrw_dirhist_4='/home/vinicius/Documentos/meusProgramas/linkcoach/ghCredentials'
+let g:netrw_dirhist_5='/home/vinicius/Documentos/meusProgramas/server-side-api/credentials'
+let g:netrw_dirhist_6='/home/vinicius/Documentos/meusProgramas/wfsite/facebooktabs'
+let g:netrw_dirhist_7='/home/vinicius/Documentos/meusProgramas/wfsite/facebooktabs/tabfaq'
